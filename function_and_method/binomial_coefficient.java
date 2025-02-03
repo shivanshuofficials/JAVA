@@ -23,7 +23,7 @@ System.out.println(answer);
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-    bin_coeffi(5, 2);
+    bin_coeffi(7, 1);
 
     }
 }
