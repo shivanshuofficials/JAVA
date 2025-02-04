@@ -12,6 +12,9 @@ public class inbuilt_sort {
         int arr[] = {5, 2, 8, 1, 9};
         System.out.println("original array:");
         print(arr);
+        Arrays.sort(arr,0,3);
+        System.out.println("sorted array from index 0 to 3:");
+        print(arr);
         Arrays.sort(arr);
         System.out.println("sorted array:");
         print(arr);
