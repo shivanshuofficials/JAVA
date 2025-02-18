@@ -1,0 +1,16 @@
+How to convert decimal to binary in java.
+let take Decimal = 4.
+step 1:
+    take lcm of 4 .
+    2|4|0 = remainder
+    2|2|0 = remainder
+    2|1| = remainder
+    step 2:
+    add the remainder in reverse order to get binary number 100.
+
+2. How to convert binary to decimal in java.
+    binary = 1001.
+    step 1:
+    take the binary number and multiply each digit with the power of 2.
+    1*2^3 + 0*2^2 + 0*2^ 1 + 1*2^0 = 9.
+    answer = 8+ 1 = 9.
