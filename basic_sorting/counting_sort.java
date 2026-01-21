@@ -2,7 +2,7 @@ package basic_sorting;
 import java.util.*;
 public class counting_sort {
     public static int countingsort(int arr[]) {
-        //code
+        
         return 0;
     }
 
@@ -13,7 +13,7 @@ public class counting_sort {
         System.out.println();
     }
     public static void main(String[] args) {
-        int arr[] = {4, 2, 2, 8, 3,7};
+        int arr[] = {4, 2, 2, 8, 3,7,8};
         countingsort(arr);
     }
 }
